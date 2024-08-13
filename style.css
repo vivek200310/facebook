@@ -1,0 +1,120 @@
+.container{
+    width: 100%;
+    height: 800px;
+   
+}
+.header {
+    width: 100%;
+    height: 87px;
+    background-color: #3b5998;
+    overflow: hidden; 
+}
+
+body {
+    margin: 0;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+}
+
+.logo {
+    width: 45%; 
+    padding-left: 110px; 
+    padding-top: 30px;
+    margin-left: 1%;
+    float: left;
+}
+
+.login {
+    width: 45%; 
+    float: left;
+    padding-top: 10px; 
+    text-align: left; 
+}
+.login-control{
+    font-size: 15px;
+}
+.btn:hover{
+    background:aliceblue;
+}
+.leftpart{
+    width: 50%;
+    text-align: center;
+    float: left;
+}
+.rightpart{
+    width: 50%;
+   
+    float: left;
+    
+}
+.mainbody{
+    background:linear-gradient(white,#d3d8e8) ;
+    width: 100%;
+    height: 650px;
+   
+}
+.crt{
+    font-weight: bold;
+    font-size: 26px;
+    padding-left:10%;
+  
+   
+}
+.qck{
+    font-weight: lighter;
+    font-size: 20px;
+    padding-left: 70px;
+   margin-bottom: 5px;
+    
+}
+.one{
+    padding-left: 70px;
+    
+}
+.two{
+    padding-left: 70px;
+    
+}
+.three{
+    padding-left: 70px;
+    height: 2px;
+    width: 100%;
+    float: left;
+    
+}
+.four{
+    width: 100%;
+    height: 10%;
+    padding-top: 33px;
+    padding-left: 70px;
+    
+    
+}
+.five{
+    width: 100%;
+    height: 10%;
+   padding-left: 70px;
+
+}
+.six{
+    width: 100%;
+    height: 10%;
+    padding-left: 70px;
+    padding-bottom: 2px;
+}
+.seven{
+    padding-left: 80px;
+    padding-top: 20px;
+    
+}
+.eight{
+    padding-top: 20px;
+    padding-left: 80px;
+}
+.lowerbody{
+    width: 100%;
+    height: 30%;
+    padding-left: 200px;
+    padding-top: 75px;
+    padding-right: 100px;
+
+}
